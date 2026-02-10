@@ -52,7 +52,7 @@ o Provide a toggle button to switch the theme.
 
 o Use useContext in multiple components to apply the current theme style.
 
-## Sample App Behaviour:
+## Sample App Behaviour
 - [Show Notification Button] → (Opens a portal modal)
 - Theme: [Light / Dark Toggle]
 - [Form - Controlled] (Inputs binded with state)
